@@ -1,6 +1,10 @@
 # 156-modul-youtube
 YouTube Video auf Artikeldetailseite für Zen Cart 1.5.6 deutsch
 
+Hinweis: 
+Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlich unter Releases herunterladen:
+https://github.com/zencartpro/156-modul-youtube/releases
+
 Mit dieser Erweiterung können YouTube Videos auf der Artikeldetailseite integriert werden.
 Das Video wird responsiv eingebunden und enthält danach keine "passenden" Videos.
 Außerdem wird der "erweiterte Datenschutzmodus" für die Einbettung verwendet, so dass die Videos datenschutzkonform eingebettet werden.
